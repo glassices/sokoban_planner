@@ -1,6 +1,6 @@
 # Sokoban Planner Based on Self-Curriculum Learning
 
-This is a CPP/PyTorch implementation of the sSokoban Planner
+This is a CPP/PyTorch implementation of the Sokoban Planner
 
 **Solving Hard AI Planning Instances Using Curriculum-Driven Deep Reinforcement Learning (https://arxiv.org/abs/2006.02689).**
 
